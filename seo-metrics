@@ -10,23 +10,3 @@
     <img src="https://static.wixstatic.com/media/12d78b_adfc19f30a094bf38c3422eddcd77e6c~mv2.jpg" alt="SEO Metrics">
 </body>
 </html>
-# Clone your repository
-git clone https://github.com/YOUR_USERNAME/seo-metrics.git
-
-# Navigate into the repository
-cd seo-metrics
-
-# Add the seo-metrics.html file to this directory
-# You can create the file using a text editor or copy it here
-touch seo-metrics.html
-
-# Add the content provided above to seo-metrics.html
-
-# Stage the file
-git add seo-metrics.html
-
-# Commit the file
-git commit -m "Add seo-metrics.html"
-
-# Push the file to GitHub
-git push origin main
